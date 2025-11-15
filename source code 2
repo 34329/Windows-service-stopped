@@ -1,0 +1,20 @@
+.版本 2
+.支持库 eAPI
+
+.程序集 窗口程序集_窗口1
+
+.子程序 _按钮2_被单击
+
+打开指定网址 (“https://huorong.cn/person5.html”)
+
+.子程序 _按钮4_被单击
+
+打开指定网址 (“https://geekuninstaller.com/”)
+
+.子程序 _按钮3_被单击
+
+打开指定网址 (“https://weishi.360.cn/sem.html”)
+
+.子程序 _按钮1_被单击
+
+打开指定网址 (“https://www.ccleaner.com/zh-cn”)
